@@ -1,4 +1,5 @@
-Output monolith-message.gif
+Output gifs/2010-hal-message.gif
+Output gifs/2010-hal-message.mp4
 
 #Set a custom font
 Set FontFamily "Helvetica"
@@ -21,7 +22,7 @@ Set Theme { "name": "2010", "black": "#0D0208", "red": "#ef6487", "green": "#5ec
 #
 Hide
 Type "export PS1=''" Enter
-Type "source 2010-monolith-message.sh" Enter
+Type "source 2010-hal-message.sh" Enter
 Ctrl+L
 Show
 Type "ALL THESE WORLDS " Enter

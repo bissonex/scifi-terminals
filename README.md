@@ -17,6 +17,7 @@ This project has some VHS tapes that generate:
 * [WOPR realising Thermonuclear war is a mugs game](/gifs/war-games-strange-game.gif)
 * [Dennis Nedry's terminal in Jurassic Park](/gifs/jurassic-park-nedry.gif)
 * [Ripley asking about Special Order 937](/gifs/alien-special-order.gif)
+* [HAL’s farewell message in 2010: The Year We Make Contact](/gifs/2010-hal-message.gif)
 
 There are both [GIF and MP4 versions in the gifs folder](/gifs)
 
